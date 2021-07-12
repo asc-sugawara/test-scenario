@@ -3,8 +3,8 @@ exports.handler = async (event, context, callback) => {
     // TODO implement
     const body ={
         systemText:{
-            expression:'テスト',
-            utterance:'テスト'
+            expression:'テスト2',
+            utterance:'テスト2'
         },
         serverSendTime:'2021-07-07 15:41:51'
     }
